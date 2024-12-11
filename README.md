@@ -1,12 +1,25 @@
 # Price_Data
 
-This program is designed to automate the price data sheet by pulling in data from Yahoo finance.
+This program automates the **Price Data Sheet** by pulling live price data from Yahoo Finance and updating the Excel file.
 
-Currently pulls data for "DROP DATA HERE" tab and overwrites existing data.
+---
 
-Current excel file path:
+## Features
+- Pulls live stock data for the **"DROP DATA HERE"** tab.
+- Overwrites existing data with updated values.
+- Fetches the following metrics:
+  - **Last**: Last available stock price (close).
+  - **Change**: Difference between the open price and the current price.
+  - **% Change**: Percentage change relative to the open price.
+  - **Open**: Opening price for the day.
+  - **High**: Highest price for the day.
+  - **Low**: Lowest price for the day.
+  - **Volume**: Trading volume for the day.
+  - **Time**: Date the data was fetched.
 
-Price Data Sheet_TEST.xlsx
+---
+
+## Current Excel File Path
 
 ---
 
