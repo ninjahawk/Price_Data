@@ -2,7 +2,7 @@
 
 This program is designed to automate the price data sheet by pulling in data from Yahoo finance.
 
-Currently pulls data for "DROP DATA HERE" tab and ovwrwrites existing data.
+Currently pulls data for "DROP DATA HERE" tab and overwrites existing data.
 
 ---
 
