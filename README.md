@@ -6,7 +6,7 @@ Currently pulls data for "DROP DATA HERE" tab and overwrites existing data.
 
 Current relative path:
 
-price_data_test
+Price Data Sheet_TEST.xlsx
 
 ---
 
