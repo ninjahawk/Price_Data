@@ -4,7 +4,7 @@ This program is designed to automate the price data sheet by pulling in data fro
 
 Currently pulls data for "DROP DATA HERE" tab and overwrites existing data.
 
-Current relative path:
+Current excel file path:
 
 Price Data Sheet_TEST.xlsx
 
