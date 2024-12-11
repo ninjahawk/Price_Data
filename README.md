@@ -4,6 +4,10 @@ This program is designed to automate the price data sheet by pulling in data fro
 
 Currently pulls data for "DROP DATA HERE" tab and overwrites existing data.
 
+Current relative path:
+
+price_data_test
+
 ---
 
 ## Prerequisites
